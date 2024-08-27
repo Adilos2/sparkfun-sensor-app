@@ -1,1 +1,1 @@
-# sparkfun-sensor-app
+# sensor-app

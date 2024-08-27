@@ -1,0 +1,7 @@
+openai==0.28.1
+pandas==1.5.3
+plotly==5.9.0
+pyserial==3.5
+snowflake_connector_python==3.2.0
+streamlit==1.23.1
+scikit-learn==0.24.2 
