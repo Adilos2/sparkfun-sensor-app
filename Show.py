@@ -4,11 +4,11 @@ import snowflake.connector
 import time
 def show():
     # Snowflake connection information
-    USER = 'ADILALL'
-    PASSWORD = 'Omar0661402741'
-    ACCOUNT = 'lj15515.ca-central-1.aws'  
-    WAREHOUSE = 'ADLS_SENSOR_SPARKFUN'  
-    DATABASE = 'SENSOR_DATA'         
+    USER = ''
+    PASSWORD = ''
+    ACCOUNT = ''  
+    WAREHOUSE = ''  
+    DATABASE = ''         
     SCHEMA = 'public'
 
 
