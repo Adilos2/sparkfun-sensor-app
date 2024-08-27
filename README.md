@@ -39,13 +39,13 @@ Lancement du Projet
 -------------------
 Pour exécuter ce projet localement, suivez ces étapes :
 
-1. Clonez le dépôt Git :
-   git clone https://github.com/votre-utilisateur/votre-projet.git
-
-2. Installez les dépendances :
+1. Installez les dépendances :
    pip install -r requirements.txt
-
+   
+3. Lancez le fichier du capteur :
+   python Sensor.py
+   
 3. Lancez l'application avec Streamlit :
-   streamlit run app.py
+   streamlit run acceuil.py
 
 Rejoignez-nous dans cette mission et explorons ensemble les moyens d'améliorer notre environnement, un byte à la fois. Votre participation est essentielle pour faire la différence. Ensemble, contribuons à un monde meilleur!
